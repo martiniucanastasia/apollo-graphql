@@ -11,7 +11,7 @@ const TRACKS = gql`
       title
       thumbnail
       length
-      moduleCount
+      modulesCount
       author {
         id
         name
